@@ -2,20 +2,20 @@ apiVersion: v1
 entries:
   got-svc:
   - apiVersion: v1
-    created: 2017-09-29T16:35:53.105210287-06:00
+    created: 2017-09-29T17:51:21.893296397-06:00
     description: Game Of Thrones Service Chart
-    digest: c598e3586fbf771b70fc8eafd3af09c3809f619379945cb7d279ed9d1225219f
+    digest: 9d16012fcb6ebf84a5474efdcb3b80975604f33d601afe0e08adfbe6029eb286
     name: got-svc
     urls:
     - http://imhotep.io/helm-charts/got-svc-0.0.1.tgz
     version: 0.0.1
   got-ui:
   - apiVersion: v1
-    created: 2017-09-29T16:35:53.105433645-06:00
+    created: 2017-09-29T17:51:21.89348187-06:00
     description: Game Of Thrones Angular FrontEnd
     digest: 4403b8add703506c47ca3e76c0d40b128e263c49bee2c556a584824b1f0cd0f2
     name: got-ui
     urls:
     - http://imhotep.io/helm-charts/got-ui-0.0.1.tgz
     version: 0.0.1
-generated: 2017-09-29T16:35:53.104861536-06:00
+generated: 2017-09-29T17:51:21.892967227-06:00
