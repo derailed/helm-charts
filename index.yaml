@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   got-svc:
   - apiVersion: v1
-    created: 2017-12-05T15:45:10.494047-07:00
+    created: 2017-12-05T15:54:06.95668-07:00
+    description: Game Of Thrones Service Chart
+    digest: 4179b0eeae7b61b6e352be312313d6e5b7fb9816ebb082e718d6c3b079014344
+    name: got-svc
+    urls:
+    - http://imhotep.io/helm-charts/got-svc-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
+    created: 2017-12-05T15:54:06.956443-07:00
     description: Game Of Thrones Service Chart
     digest: 2d46c5eda6897015945442ae4a65207392b360e672dcecfa137f5af30e9e935a
     name: got-svc
@@ -10,7 +18,7 @@ entries:
     - http://imhotep.io/helm-charts/got-svc-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2017-12-05T15:45:10.493757-07:00
+    created: 2017-12-05T15:54:06.955924-07:00
     description: Game Of Thrones Service Chart
     digest: 12c33dc5638e1c5168367037f90946b2f939108760ced8a97750aab17a0bc656
     name: got-svc
@@ -18,7 +26,7 @@ entries:
     - http://imhotep.io/helm-charts/got-svc-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2017-12-05T15:45:10.493169-07:00
+    created: 2017-12-05T15:54:06.955443-07:00
     description: Game Of Thrones Service Chart
     digest: 9d16012fcb6ebf84a5474efdcb3b80975604f33d601afe0e08adfbe6029eb286
     name: got-svc
@@ -27,7 +35,7 @@ entries:
     version: 0.0.1
   got-ui:
   - apiVersion: v1
-    created: 2017-12-05T15:45:10.4948-07:00
+    created: 2017-12-05T15:54:06.95746-07:00
     description: Game Of Thrones Angular FrontEnd
     digest: c4369e2aa706036bcd7494b4b4680868fb6667d5a601a754acd3a3b0ae8de1a5
     name: got-ui
@@ -35,11 +43,11 @@ entries:
     - http://imhotep.io/helm-charts/got-ui-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2017-12-05T15:45:10.494586-07:00
+    created: 2017-12-05T15:54:06.957229-07:00
     description: Game Of Thrones Angular FrontEnd
     digest: 4403b8add703506c47ca3e76c0d40b128e263c49bee2c556a584824b1f0cd0f2
     name: got-ui
     urls:
     - http://imhotep.io/helm-charts/got-ui-0.0.1.tgz
     version: 0.0.1
-generated: 2017-12-05T15:45:10.492188-07:00
+generated: 2017-12-05T15:54:06.954761-07:00
